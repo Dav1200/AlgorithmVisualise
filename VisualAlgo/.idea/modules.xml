@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/projectA.iml" filepath="$PROJECT_DIR$/projectA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisualAlgo.iml" filepath="$PROJECT_DIR$/VisualAlgo.iml" />
     </modules>
   </component>
 </project>
