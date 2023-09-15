@@ -1,2 +1,2 @@
 # AlgorithmVisualise
-I have created a software to visualse sorting algorithms
+I have created a software to visualise sorting algorithms
